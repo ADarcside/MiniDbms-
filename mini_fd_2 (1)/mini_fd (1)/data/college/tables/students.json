@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "next_rid": 2,
+  "rows": [
+    {
+      "rid": 1,
+      "values": {
+        "id": 1,
+        "name": "Aarav",
+        "age": 20
+      }
+    }
+  ]
+}

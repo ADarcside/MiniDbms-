@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "tables": {
+    "students": {
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "not_null": true,
+          "primary_key": true
+        },
+        {
+          "name": "name",
+          "type": "TEXT",
+          "not_null": true,
+          "primary_key": false
+        },
+        {
+          "name": "age",
+          "type": "INTEGER",
+          "not_null": false,
+          "primary_key": false
+        }
+      ]
+    }
+  },
+  "indexes": {}
+}
